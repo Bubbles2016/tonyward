@@ -1,0 +1,100 @@
+﻿@media (max-width: 1440px) {
+ .pic2 img {height: 295px}
+}
+
+@media (max-width: 1366px) {
+ #main-pic {height: 400px}   
+}
+
+@media (max-width: 1024px) {
+ .pic2 img {height: 210px}
+ .subscribe {width: 80.17%; border:none}
+ #main-pic {height: 300px}
+ .all {top: 370px}
+ 
+}
+
+@media (max-width: 768px) {
+    #main-pic {height: 245px}
+    /*.main-nav {height: 35px}*/
+    #fs1 {height: 131.19px}
+    .subscribe {width: 75.17%}
+    .main-nav ul li {padding-right: 20px}
+    .line {height: 61px}
+    .pic2 img {height: 160px}
+    .logo {width: 30px}
+    #main-nav ul {font-size: 13px}
+    .all {top: 300px}
+    .middle-nav img {visibility: hidden !important}
+    .pull-right {padding-left: 0; padding-right: 0}
+}
+
+@media (max-width: 736px) {
+    .pic1 img {width: 100%}
+    .pic2 img, .desc, #fs1, .pic-hcb2 {display: none}
+    .adjust-pic-subtitles {padding-left: 30px; padding-right: 30px}
+    footer {margin-left: 5px; margin-right: 5px}
+    .image-holder {margin-bottom: 25px}
+    .bridal-main-cont {margin-bottom: 25px}
+    .couture1-cont {margin-bottom: 25px}
+}
+
+@media (max-width: 667px) {
+    #main-nav ul {font-size: 11px}
+    .designer-name {font-size: 18px}
+    .pull-right {font-size: 11px}
+    
+}
+
+@media (max-width: 568px) {
+    #main-nav ul {font-size: 8px}
+}
+
+@media (max-width: 425px) {
+  .first-part {background: white; z-index: 1000}
+  .first-part span {font-size: 14px;}
+  .logo {width: 20px}
+  .first-part ul {padding-left: 0; padding-right: 0; font-size: 12px}
+  .first-part span {font-size: 14px}
+  #main-pic {height: 140px}
+  button.navbar-toggle {border-color: black; z-index: 5}
+  .navbar-toggle .icon-bar {background: black}
+  .pull-right {display: none}
+  #main-nav {display: none}
+  .log {float: left}
+  #nav-mobile {display: block; position: absolute; z-index: 1030; height: 100%; background: #555}
+  #nav-mobile ul {list-style-type: none;}
+  #nav-mobile ul li a {color: white; margin-bottom: 15px;}
+  #fs1 {height: unset}
+  .pic2 img {height: unset}
+  .designer-name {display: flex; justify-content:center}
+  .fifty-fifty-pic {padding-top: 20px; padding-bottom: 20px}
+  .bridal3, .photo1 {padding-bottom: 20px}
+  .adjust-pic-subtitles {padding-left: 30px; padding-right: 30px; margin-bottom: 30px}
+  #foot-nav-social-media ul {font-size: 12px}
+  /*footer {margin-left: 5px; margin-right: 5px}*/
+  footer h5, footer h4 {font-size: 14px; font-weight: bold}
+  .all {top: 200px; z-index:0}
+  #mobileNav {top:0}
+}
+
+@media (max-width: 414px) {
+    .delete-marg {margin-bottom: 0}
+}
+
+@media (max-width: 375px) {
+   .first-part span {font-size: 11px}
+   .subscribe {width: 93.17%;}
+   #fs1 {display: block}
+   .two {display: block}
+}
+
+@media (max-width: 320px) {
+    .all {top: 170px;}
+    .logo {width: 15px}
+    footer h5 {font-size: 12px}
+    footer {margin-bottom: 10px}
+    #mobileNav {top: 0;}
+    /*#mobileNav .mini {font-size:10px}*/
+    /*#mobileNav .weibo {display: none}*/
+}
